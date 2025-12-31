@@ -41,7 +41,6 @@
 ![Node.js](https://skillicons.dev/icons?i=nodejs)
 
 ### 🔁 CI/CD, GitOps & Observability
-
 ![GitHub Actions](https://skillicons.dev/icons?i=githubactions)
 ![GitLab CI](https://skillicons.dev/icons?i=gitlab)
 ![Jenkins](https://skillicons.dev/icons?i=jenkins)
