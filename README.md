@@ -40,23 +40,19 @@
 ![C++](https://skillicons.dev/icons?i=cpp)
 ![Node.js](https://skillicons.dev/icons?i=nodejs)
 
-### 🎮 Game Development
-![Unity](https://skillicons.dev/icons?i=unity)
-![Unreal](https://skillicons.dev/icons?i=unreal)
-
 ### 🔁 CI/CD, GitOps & Observability
+
 ![GitHub Actions](https://skillicons.dev/icons?i=githubactions)
 ![GitLab CI](https://skillicons.dev/icons?i=gitlab)
 ![Jenkins](https://skillicons.dev/icons?i=jenkins)
 
-<img src="https://raw.githubusercontent.com/cncf/artwork/main/projects/argo/icon/color/argo-icon-color.svg" width="48" />
+<img src="https://raw.githubusercontent.com/cncf/artwork/main/projects/argo/icon/color/argo-icon-color.svg" width="44" />
 ![Prometheus](https://skillicons.dev/icons?i=prometheus)
 ![Grafana](https://skillicons.dev/icons?i=grafana)
 
 ![Terraform](https://skillicons.dev/icons?i=terraform)
 ![Ansible](https://skillicons.dev/icons?i=ansible)
 ![Postman](https://skillicons.dev/icons?i=postman)
-
 ---
 
 ## 📊 GitHub Stats
