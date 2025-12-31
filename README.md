@@ -37,8 +37,8 @@
 
 **CI/CD & Tools:**  
 ![GitHub Actions](https://skillicons.dev/icons?i=githubactions) ![Jenkins](https://skillicons.dev/icons?i=jenkins) ![GitLab CI](https://skillicons.dev/icons?i=gitlab)  
-![Postman](https://skillicons.dev/icons?i=k8s) ![Terraform](https://skillicons.dev/icons?i=terraform) ![Ansible](https://skillicons.dev/icons?i=ansible) ![ArgoCD](https://skillicons.dev/icons?i=argocd)
-![Prometheus](https://skillicons.dev/icons?i=prometheus) ![Grafana](https://skillicons.dev/icons?i=grafana)
+![Postman](https://skillicons.dev/icons?i=k8s) ![Terraform](https://skillicons.dev/icons?i=terraform) ![Ansible](https://skillicons.dev/icons?i=ansible) 
+![Prometheus](https://skillicons.dev/icons?i=prometheus) ![Grafana](https://skillicons.dev/icons?i=grafana) ![ArgoCD](https://skillicons.dev/icons?i=argocd)
 
 ---
 
