@@ -43,6 +43,6 @@
 
 ## 📊 GitHub Stats                                                                                                                          
 
-![Oğulcan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=0gulcandogann&show_icons=true&theme=tokyonight&hide_border=true)      ![visitors](https://count.getloli.com/get/@0gulcandogann?theme=rule34)
+![Oğulcan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=0gulcandogan&show_icons=true&theme=tokyonight&hide_border=true)      ![visitors](https://count.getloli.com/get/@0gulcandogann?theme=rule34)
 
 
